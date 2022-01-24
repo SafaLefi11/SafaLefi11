@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Safa Lefi
+- 👋 Hi, I’m @Safa Lefi    https://www.linkedin.com/in/safa-lefi-47988b166/?originalSubdomain=ca 
 - 👀 I’m interested in embedded software development
 - Let's start :) 
 
